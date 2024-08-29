@@ -53,7 +53,7 @@ function solution_2(input: number[], sum: number) {
   return null;
 }
 
-export function run() {
+export function run_adaptiq() {
   const result1 = solution_1([1, 4, 9, 11, 13, 22], 22);
   const result2 = solution_2([1, 7, 8, 10, 12, 14], 8);
 
