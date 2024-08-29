@@ -1,0 +1,1 @@
+export * from './adaptiq.challenge';
