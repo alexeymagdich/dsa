@@ -1,3 +1,3 @@
-import * as challengeSolutions from './challenges';
+import { containsDuplicate } from './challenges/arrays/containsDuplicate';
 
-challengeSolutions.mergeSortedArrays();
+containsDuplicate();
