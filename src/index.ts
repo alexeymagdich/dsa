@@ -1,3 +1,3 @@
-import { containsDuplicate } from './challenges/arrays/containsDuplicate';
+import { rotateArray } from './challenges/arrays/rotateArray';
 
-containsDuplicate();
+rotateArray();
