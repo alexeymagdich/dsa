@@ -1,3 +1,3 @@
-import { rotateArray } from './challenges/arrays/rotateArray';
+import { hashTableImplementation } from './hashTables/hashTableImplementation';
 
-rotateArray();
+hashTableImplementation();
