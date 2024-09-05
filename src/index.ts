@@ -1,3 +1,3 @@
-import { firstRecurringChat } from './hashTables/firstRecurringChat';
+import { ransomNote } from './hashTables/ransomNote';
 
-firstRecurringChat();
+ransomNote();
