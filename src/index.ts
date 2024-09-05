@@ -1,3 +1,3 @@
-import { hashTableImplementation } from './hashTables/hashTableImplementation';
+import { firstRecurringChat } from './hashTables/firstRecurringChat';
 
-hashTableImplementation();
+firstRecurringChat();
