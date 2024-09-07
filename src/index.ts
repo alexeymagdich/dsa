@@ -1,3 +1,3 @@
-import { ransomNote } from './hashTables/ransomNote';
+import { isomorphicStrings } from './hashTables/isomorphicStrings';
 
-ransomNote();
+isomorphicStrings();
