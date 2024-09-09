@@ -1,3 +1,3 @@
-import { isomorphicStrings } from './hashTables/isomorphicStrings';
+import { wordPattern } from './hashTables/wordPattern';
 
-isomorphicStrings();
+wordPattern();
