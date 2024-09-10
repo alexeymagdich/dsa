@@ -1,3 +1,3 @@
-import { wordPattern } from './hashTables/wordPattern';
+import { removeElement } from './arrays/removeElement';
 
-wordPattern();
+removeElement();
