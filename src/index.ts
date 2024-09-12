@@ -1,3 +1,3 @@
-import { removeElement } from './arrays/removeElement';
+import { bestTimeToBuyAndSellStock } from './arrays/bestTimeToBuyAndSellStock';
 
-removeElement();
+bestTimeToBuyAndSellStock();
