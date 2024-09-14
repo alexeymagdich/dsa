@@ -1,3 +1,3 @@
-import { bestTimeToBuyAndSellStock } from './arrays/bestTimeToBuyAndSellStock';
+import { mergeSortedArrays } from './arrays/mergeSortedArrays';
 
-bestTimeToBuyAndSellStock();
+mergeSortedArrays();
