@@ -1,3 +1,3 @@
-import { mergeSortedArrays } from './arrays/mergeSortedArrays';
+import { linkedListImplementation } from './linkedLists/linkedListImplementation';
 
-mergeSortedArrays();
+linkedListImplementation();
