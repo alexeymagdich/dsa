@@ -1,3 +1,3 @@
-import { linkedListImplementation } from './linkedLists/linkedListImplementation';
+import { reverseLinkedList } from './linkedLists/reverseLinkedList';
 
-linkedListImplementation();
+reverseLinkedList();
