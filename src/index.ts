@@ -1,3 +1,3 @@
-import { linkedListCycle } from './linkedLists/linkedListCycle';
+import { reverseLinkedList2 } from './linkedLists/reverseLinkedList2';
 
-linkedListCycle();
+reverseLinkedList2();
