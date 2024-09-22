@@ -1,3 +1,3 @@
-import { reverseLinkedList2 } from './linkedLists/reverseLinkedList2';
+import { stackImplementation } from './stacks/stackImplementation';
 
-reverseLinkedList2();
+stackImplementation();
