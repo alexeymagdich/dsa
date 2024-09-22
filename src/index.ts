@@ -1,3 +1,3 @@
-import { stackImplementation } from './stacks/stackImplementation';
+import { queueImplementation } from './queues/queueImplementation';
 
-stackImplementation();
+queueImplementation();
