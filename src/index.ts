@@ -1,3 +1,3 @@
-import { queueImplementationUsingStacks } from './queues/queueImplementationUsingStacks';
+import { bstImplementation } from './trees/bst/bstImplementation';
 
-queueImplementationUsingStacks();
+bstImplementation();
