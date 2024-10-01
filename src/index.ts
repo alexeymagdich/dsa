@@ -1,3 +1,3 @@
-import { bstImplementation } from './trees/bst/bstImplementation';
+import { invertBinaryTree } from './trees/binaryTrees/invertBInaryTree';
 
-bstImplementation();
+invertBinaryTree();
