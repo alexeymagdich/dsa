@@ -1,3 +1,3 @@
-import { invertBinaryTree } from './trees/binaryTrees/invertBInaryTree';
+import { maxDepthOfBinaryTree } from './trees/binaryTrees/maxDepthOfBinaryTree';
 
-invertBinaryTree();
+maxDepthOfBinaryTree();
