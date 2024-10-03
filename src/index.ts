@@ -1,3 +1,3 @@
-import { maxDepthOfBinaryTree } from './trees/binaryTrees/maxDepthOfBinaryTree';
+import { graphImplementation } from './graphs/graphImplementation';
 
-maxDepthOfBinaryTree();
+graphImplementation();
