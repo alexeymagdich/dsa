@@ -1,3 +1,3 @@
-import { graphImplementation } from './graphs/graphImplementation';
+import { gameOfLifeImplementation } from './matrix/gameOfLife';
 
-graphImplementation();
+gameOfLifeImplementation();
