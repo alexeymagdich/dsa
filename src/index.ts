@@ -1,3 +1,3 @@
-import { factorial } from './recursion/factorial';
+import { fibonacci } from './recursion/fibonacci';
 
-factorial();
+fibonacci();
