@@ -1,3 +1,3 @@
-import { fibonacci } from './recursion/fibonacci';
+import { reverseStringRecursively } from './recursion/reverseStringRecursively';
 
-fibonacci();
+reverseStringRecursively();
