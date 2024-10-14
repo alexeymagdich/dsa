@@ -1,3 +1,3 @@
-import { selectionSort } from './sorting/selectionSort';
+import { insertionSort } from './sorting/insertionSort';
 
-selectionSort();
+insertionSort();
