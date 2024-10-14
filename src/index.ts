@@ -1,3 +1,3 @@
-import { bubbleSort } from './sorting/bubbleSort';
+import { selectionSort } from './sorting/selectionSort';
 
-bubbleSort();
+selectionSort();
