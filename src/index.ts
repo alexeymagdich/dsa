@@ -1,3 +1,3 @@
-import { reverseStringRecursively } from './recursion/reverseStringRecursively';
+import { bubbleSort } from './sorting/bubbleSort';
 
-reverseStringRecursively();
+bubbleSort();
