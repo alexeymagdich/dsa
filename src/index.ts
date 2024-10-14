@@ -1,3 +1,3 @@
-import { gameOfLifeImplementation } from './matrix/gameOfLife';
+import { factorial } from './recursion/factorial';
 
-gameOfLifeImplementation();
+factorial();
